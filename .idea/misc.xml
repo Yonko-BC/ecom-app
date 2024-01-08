@@ -8,8 +8,10 @@
         <option value="$PROJECT_DIR$/inventoryService/pom.xml" />
         <option value="$PROJECT_DIR$/gateway/pom.xml" />
         <option value="$PROJECT_DIR$/discoveryServise/pom.xml" />
+        <option value="$PROJECT_DIR$/billingService/pom.xml" />
       </list>
     </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_20" default="true" project-jdk-name="openjdk-20" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
